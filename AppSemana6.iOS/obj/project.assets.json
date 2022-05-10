@@ -1064,11 +1064,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/juanmamena/Documents/JMMM/Uisrael/2022 FINAL OK/Aplicaciones Móviles/Semana 6/AppSemana6/AppSemana6.iOS/AppSemana6.iOS.csproj",
+      "projectUniqueName": "/Users/juanmamena/Documents/JMMM/Uisrael/2022 FINAL OK/Aplicaciones Móviles/Semana 6/REPO/AppSemana6/AppSemana6.iOS/AppSemana6.iOS.csproj",
       "projectName": "AppSemana6.iOS",
-      "projectPath": "/Users/juanmamena/Documents/JMMM/Uisrael/2022 FINAL OK/Aplicaciones Móviles/Semana 6/AppSemana6/AppSemana6.iOS/AppSemana6.iOS.csproj",
+      "projectPath": "/Users/juanmamena/Documents/JMMM/Uisrael/2022 FINAL OK/Aplicaciones Móviles/Semana 6/REPO/AppSemana6/AppSemana6.iOS/AppSemana6.iOS.csproj",
       "packagesPath": "/Users/juanmamena/.nuget/packages/",
-      "outputPath": "/Users/juanmamena/Documents/JMMM/Uisrael/2022 FINAL OK/Aplicaciones Móviles/Semana 6/AppSemana6/AppSemana6.iOS/obj/",
+      "outputPath": "/Users/juanmamena/Documents/JMMM/Uisrael/2022 FINAL OK/Aplicaciones Móviles/Semana 6/REPO/AppSemana6/AppSemana6.iOS/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -1083,8 +1083,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/juanmamena/Documents/JMMM/Uisrael/2022 FINAL OK/Aplicaciones Móviles/Semana 6/AppSemana6/AppSemana6/AppSemana6.csproj": {
-              "projectPath": "/Users/juanmamena/Documents/JMMM/Uisrael/2022 FINAL OK/Aplicaciones Móviles/Semana 6/AppSemana6/AppSemana6/AppSemana6.csproj"
+            "/Users/juanmamena/Documents/JMMM/Uisrael/2022 FINAL OK/Aplicaciones Móviles/Semana 6/REPO/AppSemana6/AppSemana6/AppSemana6.csproj": {
+              "projectPath": "/Users/juanmamena/Documents/JMMM/Uisrael/2022 FINAL OK/Aplicaciones Móviles/Semana 6/REPO/AppSemana6/AppSemana6/AppSemana6.csproj"
             }
           }
         }

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="AppSemana6.GetPage" NavigationPage.HasNavigationBar="False">
+
+     <StackLayout>
+        <Frame BackgroundColor="#15497B" Padding="24" CornerRadius="0">
+                <Image Source="https://sbsconsulting.com.ec/wp-content/uploads/2018/01/LOGO-UISRAEL-768x209.png "/>
+            </Frame>
+       
+
+        <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+
+         <Label Grid.Row="0" Grid.Column="0" Text="Id:"></Label>
+        <Label Grid.Row="1" Grid.Column="0" Text="Descripcion:"></Label>
+        <Label Grid.Row="2" Grid.Column="0" Text="Imagen:"></Label>
+        <Label Grid.Row="3" Grid.Column="0" Text="Está Activo?:"></Label>
+
+        <Label Grid.Row="0" Grid.Column="1" x:Name="lblId"></Label>
+        <Label Grid.Row="1" Grid.Column="1" x:Name="lblDescripcion"></Label>
+        <Label Grid.Row="2" Grid.Column="1" x:Name="lblImagen"></Label>
+        <Label Grid.Row="3" Grid.Column="1" x:Name="lblEsActivo"></Label>
+
+        <Button Grid.Row="4" Grid.Column="0" x:Name="btnConsultar" x:Uid="btnConsultar" Text="Consultar" BackgroundColor="#21A765" TextColor="White" Clicked="btnIngresar_Clicked"></Button>
+
+
+         </Grid>
+
+               
+    </StackLayout>
+ 
+</ContentPage>

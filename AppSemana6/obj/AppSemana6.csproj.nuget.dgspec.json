@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/juanmamena/Documents/JMMM/Uisrael/2022 FINAL OK/Aplicaciones Móviles/Semana 6/AppSemana6/AppSemana6/AppSemana6.csproj": {}
+    "/Users/juanmamena/Documents/JMMM/Uisrael/2022 FINAL OK/Aplicaciones Móviles/Semana 6/REPO/AppSemana6/AppSemana6/AppSemana6.csproj": {}
   },
   "projects": {
-    "/Users/juanmamena/Documents/JMMM/Uisrael/2022 FINAL OK/Aplicaciones Móviles/Semana 6/AppSemana6/AppSemana6/AppSemana6.csproj": {
+    "/Users/juanmamena/Documents/JMMM/Uisrael/2022 FINAL OK/Aplicaciones Móviles/Semana 6/REPO/AppSemana6/AppSemana6/AppSemana6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/juanmamena/Documents/JMMM/Uisrael/2022 FINAL OK/Aplicaciones Móviles/Semana 6/AppSemana6/AppSemana6/AppSemana6.csproj",
+        "projectUniqueName": "/Users/juanmamena/Documents/JMMM/Uisrael/2022 FINAL OK/Aplicaciones Móviles/Semana 6/REPO/AppSemana6/AppSemana6/AppSemana6.csproj",
         "projectName": "AppSemana6",
-        "projectPath": "/Users/juanmamena/Documents/JMMM/Uisrael/2022 FINAL OK/Aplicaciones Móviles/Semana 6/AppSemana6/AppSemana6/AppSemana6.csproj",
+        "projectPath": "/Users/juanmamena/Documents/JMMM/Uisrael/2022 FINAL OK/Aplicaciones Móviles/Semana 6/REPO/AppSemana6/AppSemana6/AppSemana6.csproj",
         "packagesPath": "/Users/juanmamena/.nuget/packages/",
-        "outputPath": "/Users/juanmamena/Documents/JMMM/Uisrael/2022 FINAL OK/Aplicaciones Móviles/Semana 6/AppSemana6/AppSemana6/obj/",
+        "outputPath": "/Users/juanmamena/Documents/JMMM/Uisrael/2022 FINAL OK/Aplicaciones Móviles/Semana 6/REPO/AppSemana6/AppSemana6/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/juanmamena/.config/NuGet/NuGet.Config"

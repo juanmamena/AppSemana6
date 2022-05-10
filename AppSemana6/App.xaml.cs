@@ -10,7 +10,7 @@ namespace AppSemana6
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new GetPage();
         }
 
         protected override void OnStart()

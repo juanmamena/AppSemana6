@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y6IOyDraulDYANKGIFG0/zNPIrehIvNdwtrXE2d9qo4wvjvT7eF6syPyFYO9CmdqTwLtvxkh8isuRgi/kR+ncw==",
+  "dgSpecHash": "x7ZsCzqMqRvI01IJr6HUCOUt6fSmNmuy8d3EEM92I0L1pDrB0NofywmWvYwc58l9C8hBk9DDTQiUCOY1jwCc5g==",
   "success": true,
-  "projectFilePath": "/Users/juanmamena/Documents/JMMM/Uisrael/2022 FINAL OK/Aplicaciones Móviles/Semana 6/AppSemana6/AppSemana6.iOS/AppSemana6.iOS.csproj",
+  "projectFilePath": "/Users/juanmamena/Documents/JMMM/Uisrael/2022 FINAL OK/Aplicaciones Móviles/Semana 6/REPO/AppSemana6/AppSemana6.iOS/AppSemana6.iOS.csproj",
   "expectedPackageFiles": [
     "/Users/juanmamena/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
     "/Users/juanmamena/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",

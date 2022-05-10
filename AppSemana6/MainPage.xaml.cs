@@ -16,7 +16,7 @@ namespace AppSemana6
 
         private static readonly HttpClient client = new HttpClient();
         List<Category> ListaCategorias = new List<Category>();
-        string UrlJson = "http://172.20.10.7:8080/yoreparo-api/v1/category/createCategory";
+        string UrlJson = "http://192.168.68.101:8080/yoreparo-api/v1/category/createCategory";
 
         public MainPage()
         {
@@ -27,7 +27,7 @@ namespace AppSemana6
         {
             try {
                 var client = new HttpClient();
-
+                Uri uri = new Uri(string.Format(UrlJson, string.Empty));
                 Category category = new Category();
 
                 category.description = txtDescripcion.Text;
@@ -38,11 +38,16 @@ namespace AppSemana6
                 StringContent content = new StringContent(json, Encoding.UTF8, "application/json");
 
                 HttpResponseMessage response = null;
-                response = await client.PostAsync(UrlJson, content);
+                response = await client.PostAsync(uri, content);
 
                 if (response.IsSuccessStatusCode)
                 {
                     await DisplayAlert("Mensaje", "Categoria creada con exito", "OK");
+                }
+                else
+                {
+                    await DisplayAlert("Mensaje", "Error: "+ response.StatusCode+" Detalle: "+response.ToString(), "OK");
+                    
                 }
 
             }

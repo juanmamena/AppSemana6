@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GHCNwPtQ8L7zo+d9aeqKaYwZQDDHQp7Yq/Jwpkg2+bAUkj8FOvlCWqc+Wskn65VkEole93ImwRMyoq8ZOUYjOA==",
+  "dgSpecHash": "MLwnmAFOQGB3n61MkefvR3aN5otW+6eya3Iei1yUXS2rTEl8P6tbOybYk0GFtvc3zrMzBe3Dofa5KcxMjDH1OQ==",
   "success": true,
-  "projectFilePath": "/Users/juanmamena/Documents/JMMM/Uisrael/2022 FINAL OK/Aplicaciones Móviles/Semana 6/AppSemana6/AppSemana6/AppSemana6.csproj",
+  "projectFilePath": "/Users/juanmamena/Documents/JMMM/Uisrael/2022 FINAL OK/Aplicaciones Móviles/Semana 6/REPO/AppSemana6/AppSemana6/AppSemana6.csproj",
   "expectedPackageFiles": [
     "/Users/juanmamena/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/Users/juanmamena/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
