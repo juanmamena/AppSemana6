@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppSemana6.MainPage"
+             NavigationPage.HasNavigationBar="False">
+
+    <StackLayout>
+        <Frame BackgroundColor="#15497B" Padding="24" CornerRadius="0">
+                <Image Source="https://sbsconsulting.com.ec/wp-content/uploads/2018/01/LOGO-UISRAEL-768x209.png "/>
+            </Frame>
+        <Entry x:Name="txtDescripcion" Placeholder="Ingrese Descripcion"></Entry>
+        <Entry x:Name="txtUrlImagen" Placeholder="Ingrese URL de la imagen"></Entry>
+        <Entry x:Name="txtActivo" Placeholder="Está Activo?"></Entry>
+
+        <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+         </Grid>
+
+        <Button Grid.Row="0" Grid.Column="0" x:Name="btnIngresar" x:Uid="btnIngresar" Text="Ingresar" BackgroundColor="#21A765" TextColor="White" Clicked="btnIngresar_Clicked"></Button>
+        <Button Grid.Row="0" Grid.Column="1"  x:Name="btnRegresar" x:Uid="btnRegresar" Text="Regresar" BackgroundColor="#21A765" TextColor="White" Clicked="btnRegresar_Clicked"></Button>
+        
+    </StackLayout>
+
+</ContentPage>

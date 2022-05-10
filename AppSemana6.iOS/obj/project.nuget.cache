@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y6IOyDraulDYANKGIFG0/zNPIrehIvNdwtrXE2d9qo4wvjvT7eF6syPyFYO9CmdqTwLtvxkh8isuRgi/kR+ncw==",
+  "success": true,
+  "projectFilePath": "/Users/juanmamena/Documents/JMMM/Uisrael/2022 FINAL OK/Aplicaciones Móviles/Semana 6/AppSemana6/AppSemana6.iOS/AppSemana6.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/juanmamena/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/juanmamena/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/juanmamena/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/juanmamena/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
