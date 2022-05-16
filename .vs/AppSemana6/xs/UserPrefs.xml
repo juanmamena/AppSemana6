@@ -1,23 +1,32 @@
 ﻿<Properties StartupConfiguration="{91A4F876-785B-4C80-91EA-3549A1078F99}|Default">
+  <MonoDevelop.Ide.ItemProperties.AppSemana6.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.DDFDAA24-BD70-44E6-A65F-49A2999AC0DB" />
   <MonoDevelop.Ide.ItemProperties.AppSemana6.Android PreferredExecutionTarget="Android.nexus_5x_pie_9_0_-_api_28" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="AppSemana6/MainPage.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AppSemana6/GetCategoriesPage.xaml.cs">
     <Files>
-      <File FileName="AppSemana6/MainPage.xaml.cs" Line="60" Column="1" />
+      <File FileName="AppSemana6/MainPage.xaml.cs" Line="58" Column="1" />
       <File FileName="AppSemana6/Category.cs" Line="1" Column="1" />
-      <File FileName="AppSemana6/GetPage.xaml" Line="1" Column="1" />
-      <File FileName="AppSemana6/GetPage.xaml.cs" Line="1" Column="1" />
-      <File FileName="AppSemana6/App.xaml.cs" Line="10" Column="10" />
-      <File FileName="AppSemana6/MainPage.xaml" Line="5" Column="53" />
+      <File FileName="AppSemana6/GetPage.xaml" Line="39" Column="17" />
+      <File FileName="AppSemana6/GetPage.xaml.cs" Line="23" Column="39" />
+      <File FileName="AppSemana6/App.xaml.cs" Line="14" Column="1" />
+      <File FileName="AppSemana6/MainPage.xaml" Line="28" Column="19" />
+      <File FileName="AppSemana6/GetCategoriesPage.xaml" Line="26" Column="61" />
+      <File FileName="AppSemana6/GetCategoriesPage.xaml.cs" Line="42" Column="41" />
+      <File FileName="AppSemana6/App.xaml" Line="1" Column="1" />
+      <File FileName="AppSemana6.iOS/AppDelegate.cs" Line="28" Column="1" />
+      <File FileName="AppSemana6/CategoryPage.xaml" Line="14" Column="51" />
+      <File FileName="AppSemana6/CategoryPage.xaml.cs" Line="28" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="AppSemana6" expanded="True">
             <Node name="AppSemana6" expanded="True">
-              <Node name="App.xaml" expanded="True" />
-              <Node name="GetPage.xaml" expanded="True" />
-              <Node name="MainPage.xaml" expanded="True" selected="True" />
+              <Node name="CategoryPage.xaml" expanded="True" />
+              <Node name="GetCategoriesPage.xaml" expanded="True">
+                <Node name="GetCategoriesPage.xaml.cs" selected="True" />
+              </Node>
             </Node>
+            <Node name="AppSemana6.iOS" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -27,7 +36,7 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint file="/Users/juanmamena/Documents/JMMM/Uisrael/2022 FINAL OK/Aplicaciones Móviles/Semana 6/REPO/AppSemana6/AppSemana6/MainPage.xaml.cs" relfile="AppSemana6/MainPage.xaml.cs" line="28" column="1" />
+      <Breakpoint file="/Users/juanmamena/Documents/JMMM/Uisrael/2022 FINAL OK/Aplicaciones Móviles/Semana 6/REPO/AppSemana6/AppSemana6/GetCategoriesPage.xaml.cs" relfile="AppSemana6/GetCategoriesPage.xaml.cs" line="19" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />

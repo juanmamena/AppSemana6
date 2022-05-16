@@ -1,0 +1,17 @@
+/Users/juanmamena/Documents/JMMM/Uisrael/2022 FINAL OK/Aplicaciones Móviles/Semana 6/REPO/AppSemana6/AppSemana6/bin/Debug/netstandard2.0/AppSemana6.deps.json
+/Users/juanmamena/Documents/JMMM/Uisrael/2022 FINAL OK/Aplicaciones Móviles/Semana 6/REPO/AppSemana6/AppSemana6/bin/Debug/netstandard2.0/AppSemana6.dll
+/Users/juanmamena/Documents/JMMM/Uisrael/2022 FINAL OK/Aplicaciones Móviles/Semana 6/REPO/AppSemana6/AppSemana6/bin/Debug/netstandard2.0/ref/AppSemana6.dll
+/Users/juanmamena/Documents/JMMM/Uisrael/2022 FINAL OK/Aplicaciones Móviles/Semana 6/REPO/AppSemana6/AppSemana6/bin/Debug/netstandard2.0/AppSemana6.pdb
+/Users/juanmamena/Documents/JMMM/Uisrael/2022 FINAL OK/Aplicaciones Móviles/Semana 6/REPO/AppSemana6/AppSemana6/obj/Debug/netstandard2.0/AppSemana6.csproj.AssemblyReference.cache
+/Users/juanmamena/Documents/JMMM/Uisrael/2022 FINAL OK/Aplicaciones Móviles/Semana 6/REPO/AppSemana6/AppSemana6/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/juanmamena/Documents/JMMM/Uisrael/2022 FINAL OK/Aplicaciones Móviles/Semana 6/REPO/AppSemana6/AppSemana6/obj/Debug/netstandard2.0/GetPage.xaml.g.cs
+/Users/juanmamena/Documents/JMMM/Uisrael/2022 FINAL OK/Aplicaciones Móviles/Semana 6/REPO/AppSemana6/AppSemana6/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/juanmamena/Documents/JMMM/Uisrael/2022 FINAL OK/Aplicaciones Móviles/Semana 6/REPO/AppSemana6/AppSemana6/obj/Debug/netstandard2.0/AppSemana6.AssemblyInfoInputs.cache
+/Users/juanmamena/Documents/JMMM/Uisrael/2022 FINAL OK/Aplicaciones Móviles/Semana 6/REPO/AppSemana6/AppSemana6/obj/Debug/netstandard2.0/AppSemana6.AssemblyInfo.cs
+/Users/juanmamena/Documents/JMMM/Uisrael/2022 FINAL OK/Aplicaciones Móviles/Semana 6/REPO/AppSemana6/AppSemana6/obj/Debug/netstandard2.0/AppSemana6.csproj.CoreCompileInputs.cache
+/Users/juanmamena/Documents/JMMM/Uisrael/2022 FINAL OK/Aplicaciones Móviles/Semana 6/REPO/AppSemana6/AppSemana6/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/juanmamena/Documents/JMMM/Uisrael/2022 FINAL OK/Aplicaciones Móviles/Semana 6/REPO/AppSemana6/AppSemana6/obj/Debug/netstandard2.0/AppSemana6.dll
+/Users/juanmamena/Documents/JMMM/Uisrael/2022 FINAL OK/Aplicaciones Móviles/Semana 6/REPO/AppSemana6/AppSemana6/obj/Debug/netstandard2.0/ref/AppSemana6.dll
+/Users/juanmamena/Documents/JMMM/Uisrael/2022 FINAL OK/Aplicaciones Móviles/Semana 6/REPO/AppSemana6/AppSemana6/obj/Debug/netstandard2.0/AppSemana6.pdb
+/Users/juanmamena/Documents/JMMM/Uisrael/2022 FINAL OK/Aplicaciones Móviles/Semana 6/REPO/AppSemana6/AppSemana6/obj/Debug/netstandard2.0/GetCategoriesPage.xaml.g.cs
+/Users/juanmamena/Documents/JMMM/Uisrael/2022 FINAL OK/Aplicaciones Móviles/Semana 6/REPO/AppSemana6/AppSemana6/obj/Debug/netstandard2.0/CategoryPage.xaml.g.cs

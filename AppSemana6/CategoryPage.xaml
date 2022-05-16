@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="AppSemana6.CategoryPage">
+   <StackLayout>
+        <Frame BackgroundColor="#15497B" Padding="24" CornerRadius="0">
+                <Image Source="https://sbsconsulting.com.ec/wp-content/uploads/2018/01/LOGO-UISRAEL-768x209.png "/>
+            </Frame>
+
+        <Label x:Name="lblId" x:Uid="lblId"></Label>
+        <Entry x:Name="txtDescripcion" x:Uid="txtDescripcion" Placeholder="Ingrese Descripcion"></Entry>
+        <Entry x:Name="txtUrlImagen" x:Uid="txtUrlImagen" Placeholder="Ingrese URL de la imagen"></Entry>
+        <Entry x:Name="txtActivo" x:Uid="txtActivo" Placeholder="Está Activo?"></Entry>
+
+        <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+         </Grid>
+
+        <Button Grid.Row="0" Grid.Column="0" x:Name="btnActualizar" x:Uid="btnActualizar" Text="Actualizar" BackgroundColor="#21A765" TextColor="White" Clicked="btnActualizar_Clicked"></Button>
+
+        <Button Grid.Row="0" Grid.Column="1"  x:Name="btnRegresar" x:Uid="btnRegresar" Text="Regresar" BackgroundColor="#21A765" TextColor="White" Clicked="btnRegresar_Clicked"></Button>
+        
+    </StackLayout>
+</ContentPage>

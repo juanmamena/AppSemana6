@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="AppSemana6.GetCategoriesPage">
+    <StackLayout>
+
+        <Label Text="Lista de Categorias" HorizontalOptions="Center" VerticalOptions="CenterAndExpand"></Label>
+
+        <ListView x:Name="categorias" x:Uid="categorias" ItemTapped="categorias_ItemTapped" HasUnevenRows="True" SeparatorVisibility="None">
+
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Orientation="Horizontal">
+                            <Image Source="{Binding image}"
+                                   WidthRequest="200"
+                                   HeightRequest="200"/>
+                            <StackLayout>
+                                <Grid>
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="Auto"/>
+                                        <RowDefinition Height="Auto"/>
+                                        <RowDefinition Height="Auto"/>
+                                    </Grid.RowDefinitions>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition/>
+                                        <ColumnDefinition/>
+                                    </Grid.ColumnDefinitions>
+
+                                    <Label Grid.Row="0" Grid.Column="0" Text="Id:" FontSize="10"></Label>
+                                    <Label Grid.Row="1" Grid.Column="0" Text="Descripcion:" FontSize="10"></Label>
+                                    <Label Grid.Row="2" Grid.Column="0" Text="Está Activo?:" FontSize="10"></Label>
+
+
+                                    <Label Grid.Row="0" Grid.Column="1" Text="{Binding categoryId}"
+                                       FontSize="10" TextColor="DarkOrange"
+                                       HorizontalOptions="FillAndExpand"/>
+
+                                    <Label Grid.Row="1" Grid.Column="1" Text="{Binding description}"
+                                       FontSize="10" TextColor="Green"
+                                     HorizontalOptions="FillAndExpand"/>
+
+                                    <CheckBox Grid.Row="2" Grid.Column="1" IsChecked="{Binding isActive}" />
+
+                                </Grid>
+
+
+                            </StackLayout>
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+
+        </ListView>
+    </StackLayout>
+</ContentPage>
